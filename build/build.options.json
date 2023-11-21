@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInLibrariesFolders": "C:\\Users\\Solo Coder\\AppData\\Local\\Arduino15\\libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\Solo Coder\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Solo Coder\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\Solo Coder\\Desktop\\test"
+}

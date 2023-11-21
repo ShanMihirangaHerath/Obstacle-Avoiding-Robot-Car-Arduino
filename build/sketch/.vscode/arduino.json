@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\Solo Coder\\Desktop\\test\\.vscode\\arduino.json"
+{
+    "sketch": "test.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
